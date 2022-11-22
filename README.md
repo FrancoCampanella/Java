@@ -1,0 +1,1 @@
+This repository contains all the development of a Java course. The folder contains different kinds of exercises and at the "Examen_final" folder you could find out a summary of the deployment of the whole course.
